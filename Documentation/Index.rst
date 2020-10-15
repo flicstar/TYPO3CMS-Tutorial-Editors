@@ -63,7 +63,7 @@ future reference.
 
 .. **Mainzific Rim - A Gamification Approach**
 
-.. Our partners at `SkillDisplay`_ created a gamification-based tutorial on their latform. All resources, together with further information, are available at their `landing page <https://www.skilldisplay.eu/en/intellectual-outputs/typo3-gamification/>`__.
+.. Our partners at `SkillDisplay`_ created a gamification-based tutorial on their latform. All resources, together with further information, are available at their `landing page <https://www.skilldisplay.eu/intellectual-outputs/typo3-gamification/>`__.
 
 **Table of Contents**
 
